@@ -20,35 +20,35 @@ export function AboutSection() {
       color: "bg-space-sun",
     },
     {
-      name: "Ahmed",
+      name: "Ahmed Elsany",
       role: "AI Specialist",
       description: "Develops AstroBot to answer kids' questions about space weather. Creates smart, fun responses that make learning interactive and engaging!",
       avatar: "🤖",
       color: "bg-space-earth-green",
     },
     {
-      name: "Ayman",
-      role: "Frontend Developer",
+      name: "Ayman Yasser",
+      role: "Full-stack Developer",
       description: "Builds the Home page, Learn section, and interactive elements. Makes sure the website is fun, colorful, and easy for kids to navigate!",
       avatar: "💻",
       color: "bg-space-earth-blue",
     },
     {
-      name: "Mohamed",
-      role: "Backend Developer",
+      name: "Mohamed Emad",
+      role: "Full-stack Developer",
       description: "Creates the AI integration, game mechanics, and video streaming features. Ensures everything works smoothly behind the scenes!",
       avatar: "⚙️",
       color: "bg-space-aurora-purple",
     },
     {
-      name: "Ysra",
+      name: "Ysra Emad",
       role: "Video Editor",
       description: "Transforms storyboards into amazing animated videos! Adds graphics, motion effects, and kid-friendly narration to bring space weather to life!",
       avatar: "🎬",
       color: "bg-space-aurora-pink",
     },
     {
-      name: "Omar",
+      name: "Omar Adel",
       role: "UI/UX Designer",
       description: "Creates all the cartoon illustrations including the Sun, Earth, kids, and space weather phenomena for both the website and videos!",
       avatar: "🎨",
@@ -170,7 +170,7 @@ export function AboutSection() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
               <p className="text-white leading-relaxed mb-4">
-                We created Stellar Stories for the NASA Space Apps Challenge 2024 to make 
+                We created Stellar Stories for the NASA Space Apps Challenge 2025 to make 
                 space weather education fun and accessible for kids and young teens. Our goal 
                 is to teach how solar activity affects Earth through engaging stories, 
                 interactive games, and beautiful animations.
@@ -208,7 +208,7 @@ export function AboutSection() {
           transition={{ delay: 1.2 }}
         >
           <h3 className="space-heading text-2xl text-space-sun mb-8 text-center">
-            📅 NASA Space Apps Challenge 2024 📅
+            📅 NASA Space Apps Challenge 2025 📅
           </h3>
           
           <div className="max-w-3xl mx-auto">
@@ -225,7 +225,7 @@ export function AboutSection() {
                 >
                   <div className="flex-1 text-right pr-8">
                     <h4 className="space-heading text-white">Challenge Selected</h4>
-                    <p className="text-white/80 text-sm">October 1, 2024</p>
+                    <p className="text-white/80 text-sm">October 1, 2025</p>
                   </div>
                   <div className="w-4 h-4 bg-space-sun rounded-full relative z-10"></div>
                   <div className="flex-1 pl-8">
@@ -249,7 +249,7 @@ export function AboutSection() {
                   <div className="w-4 h-4 bg-space-earth-green rounded-full relative z-10"></div>
                   <div className="flex-1 pl-8">
                     <h4 className="space-heading text-white">Development Begins</h4>
-                    <p className="text-white/80 text-sm">October 2, 2024</p>
+                    <p className="text-white/80 text-sm">October 2, 2025</p>
                   </div>
                 </motion.div>
                 
@@ -261,7 +261,7 @@ export function AboutSection() {
                 >
                   <div className="flex-1 text-right pr-8">
                     <h4 className="space-heading text-white">Submission Ready!</h4>
-                    <p className="text-white/80 text-sm">October 3, 2024</p>
+                    <p className="text-white/80 text-sm">October 3, 2025</p>
                   </div>
                   <div className="w-4 h-4 bg-space-aurora-purple rounded-full relative z-10 animate-pulse"></div>
                   <div className="flex-1 pl-8">

@@ -3,10 +3,10 @@ import { Heart, Github, Twitter, Facebook, Instagram } from "lucide-react";
 
 export function Footer() {
   const socialLinks = [
-    { icon: Github, label: "GitHub", href: "#" },
-    { icon: Twitter, label: "Twitter", href: "#" },
-    { icon: Facebook, label: "Facebook", href: "#" },
-    { icon: Instagram, label: "Instagram", href: "#" },
+    // { icon: Github, label: "GitHub", href: "#" },
+    // { icon: Twitter, label: "Twitter", href: "#" },
+    // { icon: Facebook, label: "Facebook", href: "#" },
+    // { icon: Instagram, label: "Instagram", href: "#" },
   ];
 
   return (
@@ -27,10 +27,10 @@ export function Footer() {
               ✨ Stellar Stories
             </motion.div>
             <p className="text-white/80 text-sm">
-              © 2025 Stellar Stories Team
+              © 2025 SunSight Team
             </p>
             <p className="text-white/60 text-xs mt-1">
-              NASA Space Apps Challenge 2024
+              NASA Space Apps Challenge 2025
             </p>
           </div>
 
